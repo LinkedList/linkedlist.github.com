@@ -1,1 +1,1 @@
-# linkedlist.github.io source based on Jekyll and Type Theme
+linkedlist.github.io source based on Jekyll and Type Theme
