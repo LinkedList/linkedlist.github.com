@@ -48,9 +48,9 @@ riak:
 * Next create a <code>RiakTSConfig</code> class
 
 ~~~java
-import org.springframework.beans.factory.annotation.Value
-import org.springframework.context.annotation.Bean
-import org.springframework.context.annotation.Configuration
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.context.annotation.Bean;
+import org.springframework.context.annotation.Configuration;
 
 @Configuration
 class RiakTSConfig {
